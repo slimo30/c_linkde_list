@@ -1,0 +1,6 @@
+aaa A 31 10 2022 615 100000 AIR
+hhcbh A 12 2 2003 121 623 562
+eeeee A 120 12 20 13 20 AirAlgerie
+ffff A 10 10 2010 300 30 Lufthansa
+eeeee A 19 12 2009 90 13 AirFrance
+jjgjg A 31 5 2003 555 12 12

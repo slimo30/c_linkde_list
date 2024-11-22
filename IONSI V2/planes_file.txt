@@ -1,0 +1,17 @@
+aaaaa D 30 4 2003 300 20 Lufthansa
+bbbbb D 2 1 2001 300 20 AirAlgerie
+ccccc M 31 12 2000 200 200 AirAlgerie
+ddddd A 2 2 2002 20 20 AirAlgerie
+eeeee A 120 12 20 13 AirFrance
+fffff A 10 10 2010 300 30 Lufthansa
+ggggg D 30 12 2000 212 222 AirAlgerie
+aaaaa D 30 4 2003 300 20 Lufthansa
+bbbbb D 2 1 2001 300 20 AirAlgerie
+ccccc M 31 12 2000 200 200 AirAlgerie
+ddddd A 2 2 2002 300 4199136 AirAlgerie
+eeeee A 19 12 2009 90 13 AirFrance
+hhcbh A 12 2 2003 121 623 562
+jjgjg A 31 5 2003 555 12 12
+JJJB A 2 5 2003 22 122 225
+aaa A 31 10 2022 615 100000 AIR
+zzzzdgffg M 12 12 2003 123 122 fdfdfd

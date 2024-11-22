@@ -1,0 +1,6 @@
+ggggg D 30 12 2000 212 222 AirAlgerie
+bbbbb D 2 1 2001 300 20 AirAlgerie
+bbbbb D 2 1 2001 300 20 AirAlgerie
+bbbbb D 2 1 2001 300 20 AirAlgerie
+aaaaa D 30 4 2003 300 20 Lufthansa
+aaaaa D 30 4 2003 300 20 Lufthansa
